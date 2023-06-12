@@ -1,0 +1,1 @@
+Training a model to be able to read handwritten numbers using tensorflow.
